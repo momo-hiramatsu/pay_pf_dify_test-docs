@@ -17,6 +17,7 @@
 | APPLE_PAY | Apple Pay | ✓ 対応 |
 | D_PAYMENT | d払い | ✓ 対応 |
 | AU_PAY | au PAY | ✓ 対応 |
+| MERPAY | メルペイ | ✓ 対応 |
 
 ### 未対応決済方法
 
@@ -48,6 +49,7 @@
 - Apple Pay
 - d払い
 - au PAY
+- メルペイ
 
 ## カード読み取り機能
 
