@@ -19,6 +19,7 @@
 | AU_PAY | au PAY | ✓ 対応 |
 | MERPAY | メルペイ | ✓ 対応 |
 | PAYPAY_BALANCE | PayPay残高払い | ✓ 対応 |
+| LINE_PAY_BALANCE | LINE Pay残高払い | ✓ 対応 |
 
 ### 未対応決済方法
 
@@ -52,6 +53,7 @@
 - au PAY
 - メルペイ
 - PayPay残高払い
+- LINE Pay残高払い
 
 ## カード読み取り機能
 
