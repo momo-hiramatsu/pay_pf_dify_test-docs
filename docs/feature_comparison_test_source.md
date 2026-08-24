@@ -18,6 +18,7 @@
 | D_PAYMENT | d払い | ✓ 対応 |
 | AU_PAY | au PAY | ✓ 対応 |
 | MERPAY | メルペイ | ✓ 対応 |
+| PAYPAY_BALANCE | PayPay残高払い | ✓ 対応 |
 
 ### 未対応決済方法
 
@@ -50,6 +51,7 @@
 - d払い
 - au PAY
 - メルペイ
+- PayPay残高払い
 
 ## カード読み取り機能
 
